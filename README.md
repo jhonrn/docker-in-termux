@@ -25,9 +25,9 @@ pkg install qemu-utils qemu-common qemu-system-x86_64-headless wget -y
 mkdir alpine && cd alpine
 ```
 
-5. Download Alpine Linux 3.20.2 (virt optimized) ISO:
+5. Download Alpine Linux 3.21.3 (virt optimized) ISO:
 ```bash
-wget http://dl-cdn.alpinelinux.org/alpine/v3.20/releases/x86_64/alpine-virt-3.20.2-x86_64.iso
+wget https://dl-cdn.alpinelinux.org/alpine/v3.21/releases/x86_64/alpine-virt-3.21.3-x86_64.iso
 ```
 
 6. Create disk (note it won't actually take 5GB of space, more like 500-600MB):
