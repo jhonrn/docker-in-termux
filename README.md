@@ -59,7 +59,7 @@ ifup eth0
 
 10. Create an answerfile to speed up installation:
 ```bash
-wget https://raw.githubusercontent.com/cyberkernelofficial/docker-in-termux/main/answerfile
+wget https://raw.githubusercontent.com/jhonrn/docker-in-termux/main/answerfile
 ```
 > **NOTE:** If you see any error like this: ``wget: bad address 'gist.githubusercontent.com'``. Then run this command
 > ```bash
